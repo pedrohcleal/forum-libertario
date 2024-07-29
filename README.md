@@ -2,8 +2,6 @@
 ![Flask Version](https://img.shields.io/badge/Flask-2.3.0-blue)
 ![SQLAlchemy Version](https://img.shields.io/badge/SQLAlchemy-2.0-blue)
 ![pytest Version](https://img.shields.io/badge/pytest-8.3.0-blue)
-![Build Status](https://img.shields.io/github/workflow/status/pedrohcleal/forum-libertario/CI)
-
 
 # Forum Libertario
  Forum libertário para discurssão e compartilhamento de ideias
