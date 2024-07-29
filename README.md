@@ -5,7 +5,7 @@
 ![Build Status](https://img.shields.io/github/workflow/status/pedrohcleal/forum-libertario/CI)
 
 
-# forum-libertario
+# Forum Libertario
  Forum libertário para discurssão e compartilhamento de ideias
  
 ```
