@@ -8,7 +8,7 @@
 # forum-libertario
  Forum libertário para discurssão e compartilhamento de ideias
  
-
+```
 forum-libertario/
 │
 ├── app/
@@ -39,3 +39,4 @@ forum-libertario/
 ├── add_fixtures.py
 ├── readme.md
 └── run.py
+```
